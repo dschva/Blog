@@ -8,8 +8,12 @@ main 2
 
 exp 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 exp 2
 exp 3
+=======
+exp 2
+>>>>>>> fd409c0 (e2)
 =======
 exp 2
 >>>>>>> fd409c0 (e2)
